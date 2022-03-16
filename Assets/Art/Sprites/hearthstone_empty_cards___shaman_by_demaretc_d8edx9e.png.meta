@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: eb5823339cc329b4698786ecc1391d14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2507025193686648441
+    second: hearthstone_empty_cards___shaman_by_demaretc_d8edx9e_0
+  - first:
+      213: 3556357737980007553
+    second: hearthstone_empty_cards___shaman_by_demaretc_d8edx9e_1
+  - first:
+      213: 7268287869339591020
+    second: hearthstone_empty_cards___shaman_by_demaretc_d8edx9e_2
+  - first:
+      213: -4820801846169616748
+    second: hearthstone_empty_cards___shaman_by_demaretc_d8edx9e_3
+  - first:
+      213: 6164521076071381045
+    second: hearthstone_empty_cards___shaman_by_demaretc_d8edx9e_4
+  - first:
+      213: 4669697532819831196
+    second: hearthstone_empty_cards___shaman_by_demaretc_d8edx9e_5
+  - first:
+      213: 4326502701272072786
+    second: hearthstone_empty_cards___shaman_by_demaretc_d8edx9e_6
+  - first:
+      213: -1811793418022723627
+    second: hearthstone_empty_cards___shaman_by_demaretc_d8edx9e_7
+  - first:
+      213: 5041358456911244096
+    second: hearthstone_empty_cards___shaman_by_demaretc_d8edx9e_8
+  - first:
+      213: 999026844965347650
+    second: hearthstone_empty_cards___shaman_by_demaretc_d8edx9e_9
+  - first:
+      213: -4820596293734847307
+    second: hearthstone_empty_cards___shaman_by_demaretc_d8edx9e_10
+  - first:
+      213: 7152108029704758423
+    second: hearthstone_empty_cards___shaman_by_demaretc_d8edx9e_11
+  - first:
+      213: 5914844452904465026
+    second: hearthstone_empty_cards___shaman_by_demaretc_d8edx9e_12
+  - first:
+      213: 8522195575709519456
+    second: hearthstone_empty_cards___shaman_by_demaretc_d8edx9e_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hearthstone_empty_cards___shaman_by_demaretc_d8edx9e_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 854
+        width: 260
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976c5a0812ebac220800000000000000
+      internalID: 2507025193686648441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearthstone_empty_cards___shaman_by_demaretc_d8edx9e_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1220
+        width: 255
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18492823588ba5130800000000000000
+      internalID: 3556357737980007553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearthstone_empty_cards___shaman_by_demaretc_d8edx9e_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 854
+        width: 260
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c616441ee452ed460800000000000000
+      internalID: 7268287869339591020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearthstone_empty_cards___shaman_by_demaretc_d8edx9e_3
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1220
+        width: 255
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e338a3342191db0800000000000000
+      internalID: -4820801846169616748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearthstone_empty_cards___shaman_by_demaretc_d8edx9e_4
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 854
+        width: 260
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538b4a5f147cc8550800000000000000
+      internalID: 6164521076071381045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearthstone_empty_cards___shaman_by_demaretc_d8edx9e_5
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1220
+        width: 255
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c997e3c3a291ec040800000000000000
+      internalID: 4669697532819831196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearthstone_empty_cards___shaman_by_demaretc_d8edx9e_6
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 854
+        width: 260
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2520715b843da0c30800000000000000
+      internalID: 4326502701272072786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearthstone_empty_cards___shaman_by_demaretc_d8edx9e_7
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1220
+        width: 255
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df5d505c773bd6e0800000000000000
+      internalID: -1811793418022723627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearthstone_empty_cards___shaman_by_demaretc_d8edx9e_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 442
+        width: 260
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b2b996ec086f540800000000000000
+      internalID: 5041358456911244096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearthstone_empty_cards___shaman_by_demaretc_d8edx9e_9
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 442
+        width: 260
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2412d375f914ddd00800000000000000
+      internalID: 999026844965347650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearthstone_empty_cards___shaman_by_demaretc_d8edx9e_10
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 442
+        width: 260
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcae52263dc91db0800000000000000
+      internalID: -4820596293734847307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearthstone_empty_cards___shaman_by_demaretc_d8edx9e_11
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 442
+        width: 260
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79465c90c54614360800000000000000
+      internalID: 7152108029704758423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearthstone_empty_cards___shaman_by_demaretc_d8edx9e_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 41
+        width: 267
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2827f0511bfb51250800000000000000
+      internalID: 5914844452904465026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearthstone_empty_cards___shaman_by_demaretc_d8edx9e_13
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 41
+        width: 267
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e429c39bbe44670800000000000000
+      internalID: 8522195575709519456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
